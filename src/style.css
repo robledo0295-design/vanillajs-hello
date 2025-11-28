@@ -1,5 +1,24 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+.body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+}
 
-body{
-    background: white;
+.container {
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    border: 1px solid blueviolet;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-genera {
+   
+    background-color:  rgb(135, 12, 250);
+    padding:5px;
+    color: #fff;
+    border-radius: 2px;
 }

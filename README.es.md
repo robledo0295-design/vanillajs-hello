@@ -14,7 +14,8 @@ Escribe en la línea de comandos `$ npm run start` y escribe localhost en el nav
 
 Depende del lenguaje, pero tienes `./src/app.js`, `./src/style.css` y `./src/index.html` respectivamente. Puedes agregar nuevos `.html` como desees, solo asegúrate de importarlo en el `app.js`.
 
-> Nota: recuerda que el flujo de trabajo de JS comienza dentro de `window.onload`.
+> Nota: recuerda que el flujo de trabajo de JS comienza dentro de `window.onload
+`.
 
 ## Resolución de problemas
 
